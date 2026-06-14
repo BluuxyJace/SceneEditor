@@ -1,0 +1,9 @@
+{
+"config" : {
+	"EnableHighEffectActor" : true,
+	"EnableFilterAdditional" : false,
+	"EnableDistortion" : true,
+	"EnableCalcThread" : false,
+	"EnableStreamThread" : false
+}
+}

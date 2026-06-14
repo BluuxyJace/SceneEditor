@@ -1,0 +1,121 @@
+----------------------------------------------------------------------------------------------------
+LOG DATE: 06-08-2026 19:22:17 
+----------------------------------------------------------------------------------------------------
+(Main) 19:22:17 [DEBUG]: Loading charset encoding...
+(Main) 19:22:17 [DEBUG]: Charset encoding loaded success.
+(Main) 19:22:17 [INFO]: ArchiveFactory for archive type FileSystem registered.
+(Main) 19:22:17 [INFO]: ArchiveFactory for archive type Pak registered.
+(Main) 19:22:17 [INFO]: Creating resource group General.
+(Main) 19:22:17 [INFO]: Creating resource group Internal.
+(Main) 19:22:17 [INFO]: Added resource [./] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/LordCore/material] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/LordCore/shader] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/LordCore/common] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/EditorTextures] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Actor] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/texture] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/boy] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/girl] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/gun] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/widget] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/merchant] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/zombie] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/vehicle] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1015] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1016] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1017] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1018] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1019] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1020] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1022] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1024] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1025] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1029] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1030] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1031] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1032_g1033] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1036] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1037_g1039] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/bag] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/bird] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/costume] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/bird_npc] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/egg] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/monster] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/display bone] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/hero costume] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/monstercoins] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/coins] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/bagpacks] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/fruit] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1041/neweggs] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Skins/g1042_g1045] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Effects] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Effects/Textures] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Effects/UI] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/GUI] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/GUI/imageset] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/GUI/imageset/chest_ui] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/GUI/UI] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Font] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Lang/Text] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Decorate] location of type FileSystem to resource group [General].
+(Main) 19:22:17 [INFO]: Added resource [Media/Textures/Blocks] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/64pixBlocks] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/colormap] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/environment] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/Items] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/misc] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/particle] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/models] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/entity] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/entity/chest] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/entity/zombie] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/throwable] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Added resource [Media/Textures/player] location of type FileSystem to resource group [General].
+(Main) 19:22:18 [INFO]: Lord Engine initialised success.
+(Main) 19:22:18 [DEBUG]:  GL_IMG_read_format GL_IMG_texture_compression_pvrtc GL_IMG_texture_format_BGRA8888 GL_OES_compressed_ETC1_RGB8_texture GL_OES_mapbuffer GL_EXT_multi_draw_arrays GL_OES_element_index_uint GL_OES_depth_texture GL_OES_texture_float GL_OES_texture_half_float GL_OES_vertex_half_float GL_OES_fragment_precision_high GL_OES_standard_derivatives GL_OES_vertex_array_object GL_EXT_discard_framebuffer GL_OES_required_internalformat GL_IMG_multisampled_render_to_texture GL_OES_egl_sync GL_EXT_texture_format
+(Main) 19:22:18 [DEBUG]:  GL_IMG_read_format GL_IMG_texture_compression_pvrtc GL_IMG_texture_format_BGRA8888 GL_OES_compressed_ETC1_RGB8_texture GL_OES_mapbuffer GL_EXT_multi_draw_arrays GL_OES_element_index_uint GL_OES_depth_texture GL_OES_texture_float GL_OES_texture_half_float GL_OES_vertex_half_float GL_OES_fragment_precision_high GL_OES_standard_derivatives GL_OES_vertex_array_object GL_EXT_discard_framebuffer GL_OES_required_internalformat GL_IMG_multisampled_render_to_texture GL_OES_egl_sync GL_EXT_texture_format
+(Main) 19:22:18 [DEBUG]:  OpenGL ES 2.0 (Host: 4.6.0 - Build 32.0.101.6733) 
+(Main) 19:22:18 [DEBUG]:  Imagination Technologies (Host: Intel) 
+(Main) 19:22:18 [DEBUG]:  PVRVFrame 9.5.1 - Host (OpenGL) (Host: Intel(R) UHD Graphics) (SDK Build: 3.1@2308999) 
+(Main) 19:22:18 [DEBUG]:  OpenGL ES GLSL ES 1.00 (Host: 4.60 - Build 32.0.101.6733) 
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [DEBUG]: Link shaders successd.
+(Main) 19:22:18 [INFO]: Init Renderer success.
+(Main) 19:22:43 [INFO]: Lord Engine has been shutdown.
+(Main) 19:22:43 [INFO]: Lord Renderer has been shutdown.
